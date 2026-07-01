@@ -1,36 +1,50 @@
 <h1 align="center">Hi 👋, I'm Riya Jagriti</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🚀 DSA in java | 🌱 Lifelong Learner
+💻 Full Stack Developer | 🧩 DSA in Java | 🌱 Lifelong Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+Developer;Frontend+%26+Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Riya15s">
+    <img src="https://komarev.com/ghpvc/?username=Riya15s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
 # 💫 About Me
 
-💻 Passionate Full Stack Developer focused on building scalable and user-friendly web applications.
+💻 Passionate Full Stack Developer focused on building scalable, responsive, and user-friendly web applications.
 
-🚀 I enjoy transforming ideas into real-world software solutions.
+🚀 I enjoy turning ideas into real-world software that solves meaningful problems.
 
-📚 Currently strengthening my skills in Java, Data Structures & Algorithms, and the MERN Stack.
+🧩 Practicing **Data Structures & Algorithms in Java** to strengthen problem-solving skills.
 
-🌱 Exploring Backend Development, System Design, and Cloud Technologies.
+🌱 Currently exploring **Backend Development, System Design, and Cloud Technologies**.
 
-🎯 Aspiring Software Engineer passionate about continuous learning and impactful development.
+🎯 Aspiring Software Engineer who believes in learning by building.
 
 ---
 
 # 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riya15s)
+<p align="left">
+<a href="https://github.com/Riya15s" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_riya1521/)
+<a href="https://leetcode.com/u/_riya1521/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyajagriti412@gmail.com)
+<a href="mailto:riyajagriti412@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -38,76 +52,115 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+</p>
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 💼 TalentForge
-AI-powered career platform for resume analysis, interview preparation, and personalized learning.
+## 💼 TalentForge
+
+An AI-powered career platform featuring resume analysis, interview preparation, personalized learning, and career guidance.
 
 ### 🍔 Food Delivery App
-Responsive full-stack food ordering application with authentication, cart management, and modern UI.
+
+A responsive full-stack food ordering platform with authentication, cart management, and a modern user experience.
 
 ### 💬 DevConnect
-A developer networking platform to connect, collaborate, and share ideas.
+
+A developer networking platform where developers can connect, collaborate, and showcase projects.
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Riya15s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Riya15s&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riya15s&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riya15s&theme=tokyonight&hide_border=true&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya15s&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riya15s&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Riya15s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Riya15s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
 
 ---
 
-## 👀 Profile Views
+# 📈 Contribution Graph
 
-![](https://komarev.com/ghpvc/?username=Riya15s&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya15s&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-### ✍️ Quote
+# 🎯 Current Goals
+
+- 🚀 Build production-ready Full Stack applications
+- 🧩 Master Data Structures & Algorithms in Java
+- ☁️ Learn System Design & Cloud
+- 🌟 Contribute to Open Source
+- 💼 Crack Software Engineering internships
+
+---
+
+# 💡 Fun Fact
+
+> I believe the best way to learn programming is by building projects consistently and solving real-world problems.
+
+---
+
+# ✍️ Quote
 
 > **"Code. Learn. Build. Repeat."**
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+Let's connect, collaborate, and build something amazing together 🚀
+</p>
