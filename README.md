@@ -1,105 +1,142 @@
 <h1 align="center">Hi 👋, I'm Riya Jagriti</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🧩 DSA in Java | 🌱 Lifelong Learner
+💻 Full Stack Developer | 🚀 MERN Stack Developer | 🧩 DSA in Java
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Riya15s">
-    <img src="https://komarev.com/ghpvc/?username=Riya15s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+<a href="https://github.com/Riya15s">
+<img src="https://komarev.com/ghpvc/?username=Riya15s&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
 </p>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-💻 Passionate Full Stack Developer focused on building scalable, responsive, and user-friendly web applications.
+💻 Passionate Full Stack Developer focused on building scalable and user-friendly web applications.
 
-🚀 I enjoy turning ideas into real-world software that solves meaningful problems.
+🚀 Interested in developing AI-powered web applications using the MERN Stack.
 
-🧩 Practicing **Data Structures & Algorithms in Java** to strengthen problem-solving skills.
+🧩 Solving Data Structures & Algorithms problems in Java.
 
-🌱 Currently exploring **Backend Development, System Design, and Cloud Technologies**.
+🌱 Currently learning Backend Development, REST APIs, System Design and Cloud Technologies.
 
-🎯 Aspiring Software Engineer who believes in learning by building.
+🎯 Looking for Software Engineering Internship and Full-Time Opportunities.
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Riya15s" target="_blank">
+
+<a href="https://github.com/Riya15s">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/_riya1521/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://www.linkedin.com/in/riyajagriti15">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:riyajagriti412@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://leetcode.com/u/_riya1521/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 💼 TalentForge
+## 🚨 TraceMind AI – AI-Powered Incident Management Dashboard
 
-An AI-powered career platform featuring resume analysis, interview preparation, personalized learning, and career guidance.
+🔹 Full Stack MERN Application
 
-### 🍔 Food Delivery App
+- AI-powered Incident Management Dashboard
+- Complete CRUD Operations
+- REST APIs using Express.js
+- MongoDB Atlas Integration
+- AI-based Root Cause Analysis
+- Search & Filtering
+- Responsive Dashboard
+- Netlify + Render Deployment
 
-A responsive full-stack food ordering platform with authentication, cart management, and a modern user experience.
+---
 
-### 💬 DevConnect
+## 🎯 Target Audience Dashboard
 
-A developer networking platform where developers can connect, collaborate, and showcase projects.
+- Built using React.js & Tailwind CSS
+- Responsive Dashboard UI
+- Reusable Components
+- Dynamic Data Rendering
+- Interactive User Experience
+
+---
+
+# 💼 Experience
+
+### IBM Skills Network
+
+**Virtual Intern – Web, Mobile Development & Marketing**
+
+- Worked on Full Stack Web Development
+- Developed responsive web applications
+- Learned deployment workflows
+- Strengthened problem-solving skills
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Place — CodeAstraa Hackathon 2025 (30+ Teams)
+
+👨‍💻 Led a team of 4 members in a 24-hour Hackathon
+
+🏅 Successfully completed IBM Skills Network Virtual Internship
+
+🎓 Selected as Class Representative at LIET
 
 ---
 
@@ -119,14 +156,6 @@ A developer networking platform where developers can connect, collaborate, and s
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Riya15s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -135,25 +164,35 @@ A developer networking platform where developers can connect, collaborate, and s
 
 ---
 
-# 🎯 Current Goals
+# 📜 Certifications
 
-- 🚀 Build production-ready Full Stack applications
-- 🧩 Master Data Structures & Algorithms in Java
-- ☁️ Learn System Design & Cloud
-- 🌟 Contribute to Open Source
-- 💼 Crack Software Engineering internships
+☁️ Oracle Cloud Infrastructure AI Foundations Associate
 
----
+💼 IBM Skills Network Virtual Internship
 
-# 💡 Fun Fact
+📚 Infosys Course Completion Certificate
 
-> I believe the best way to learn programming is by building projects consistently and solving real-world problems.
+🏅 C# Corner Certificate of Completion
 
 ---
 
-# ✍️ Quote
+# 🎯 2026 Goals
 
-> **"Code. Learn. Build. Repeat."**
+🚀 Build Production-Ready MERN Stack Applications
+
+🧩 Master Data Structures & Algorithms
+
+☁️ Learn System Design & Cloud Computing
+
+🌍 Contribute to Open Source
+
+💼 Secure a Software Engineering Role
+
+---
+
+# 💡 Quote
+
+> **"Learning never stops. Every project is a step toward becoming a better developer."**
 
 ---
 
@@ -162,5 +201,5 @@ A developer networking platform where developers can connect, collaborate, and s
 </h3>
 
 <p align="center">
-Let's connect, collaborate, and build something amazing together 🚀
+Let's build amazing software together 🚀
 </p>
